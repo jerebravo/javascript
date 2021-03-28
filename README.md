@@ -1,2 +1,2 @@
-# javascript
+# Javascript
 Exercises in javascript
