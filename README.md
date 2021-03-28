@@ -1,2 +1,3 @@
 # Javascript
-Exercises in javascript
+## List of exercises:
+* Create index for search in arrays
